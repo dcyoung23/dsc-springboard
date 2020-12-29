@@ -3,4 +3,5 @@ Repository to house all projects and supporting files related to my Data Science
 
 # Table of Contents
 * [Case Study - London Housing](london-housing)
+* [Guided Capstone - Big Mountain Resort](guided-capstone)
  
