@@ -135,7 +135,7 @@ GROUP BY
   F.name
   ,member_name
 HAVING 
-  (cost) > 30
+  cost > 30
 ORDER BY 
   cost DESC
 
