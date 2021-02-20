@@ -9,3 +9,6 @@ __init__.py
 
 # API Keys
 **api_keys.py*
+
+# Ignore pandas-profiling mini project
+**pandas-profiling
